@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="paddingLeft">16dp</dimen>
+    <dimen name="paddingRight">16dp</dimen>
+    <dimen name="paddingTop">8dp</dimen>
+    <dimen name="paddingBottom">8dp</dimen>
+    <dimen name="headingSize">25sp</dimen>
+    <dimen name="subtitleSize">20sp</dimen>
+    <dimen name="questionSize">18sp</dimen>
+    <dimen name="answerSize">16sp</dimen>
+</resources>
